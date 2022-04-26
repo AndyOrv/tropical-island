@@ -1,9 +1,9 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   BlankProject.cpp
   Island.cpp
   Renderer.cpp
-C:\Users\Andrew\OneDrive\Desktop\CSC8502_2021\CSC8502 2021\Blank Project\Renderer.cpp(206,81): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Andrew\Documents\GitHub\tropical-island\Blank Project\Renderer.cpp(206,81): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
   Tree.cpp
-C:\Users\Andrew\OneDrive\Desktop\CSC8502_2021\CSC8502 2021\Blank Project\Tree.cpp(73,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Documents\GitHub\tropical-island\Blank Project\Tree.cpp(73,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating Code...
-  BlankProject.vcxproj -> C:\Users\Andrew\OneDrive\Desktop\CSC8502_2021\CSC8502 2021\x64\Debug\Island.exe
+  BlankProject.vcxproj -> C:\Users\Andrew\Documents\GitHub\tropical-island\x64\Debug\Island.exe
